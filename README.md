@@ -1,5 +1,8 @@
 # TestStand
 
+![image](https://github.com/lloydandersen/TestStand/assets/171994151/aaab5033-d214-44a3-9dd1-33bf51d9f044)
+
+
 ## Intro
 
 Teststand is a collection of numerical solvers for space vehicle and mission design. The bank of functions allows quick solutions or the rapid creation of new specialized tools.  
